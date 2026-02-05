@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>check on load</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   //  hecking on load
+   
+// g_form.addInfoMessage('this is it');
+   // new set of comments
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>Sahil.Negi</sys_created_by>
+        <sys_created_on>2026-02-05 06:53:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>320d21762b36f6500bc2f79df291bfeb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>check on load</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="do nothing app" source="x_niit3_do_nothing">48116d7e2b72f6500bc2f79df291bf74</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="do nothing app">48116d7e2b72f6500bc2f79df291bf74</sys_scope>
+        <sys_update_name>sys_script_client_320d21762b36f6500bc2f79df291bfeb</sys_update_name>
+        <sys_updated_by>Sahil.Negi</sys_updated_by>
+        <sys_updated_on>2026-02-05 07:08:54</sys_updated_on>
+        <table>incident</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

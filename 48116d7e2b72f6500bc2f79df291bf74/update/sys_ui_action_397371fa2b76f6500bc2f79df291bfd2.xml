@@ -30,7 +30,7 @@
         <name>gen tdd</name>
         <onclick/>
         <order>100</order>
-        <script/>
+        <script><![CDATA[// test123]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -41,15 +41,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>397371fa2b76f6500bc2f79df291bfd2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>gen tdd</sys_name>
         <sys_overrides/>
-        <sys_package display_value="do nothing app" source="x_niit3_do_nothing">48116d7e2b72f6500bc2f79df291bf74</sys_package>
+        <sys_package display_value="Demo App for CI/CD" source="x_niit3_do_nothing">48116d7e2b72f6500bc2f79df291bf74</sys_package>
         <sys_policy/>
-        <sys_scope display_value="do nothing app">48116d7e2b72f6500bc2f79df291bf74</sys_scope>
+        <sys_scope display_value="Demo App for CI/CD">48116d7e2b72f6500bc2f79df291bf74</sys_scope>
         <sys_update_name>sys_ui_action_397371fa2b76f6500bc2f79df291bfd2</sys_update_name>
-        <sys_updated_by>Sahil.Negi</sys_updated_by>
-        <sys_updated_on>2026-02-05 07:21:55</sys_updated_on>
+        <sys_updated_by>hashim.khan</sys_updated_by>
+        <sys_updated_on>2026-05-06 16:10:53</sys_updated_on>
         <table/>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
